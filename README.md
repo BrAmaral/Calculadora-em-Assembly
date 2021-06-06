@@ -1,2 +1,2 @@
-# Calculadora-em-Assembly
-Uma calculadora que aceita numeros de ate 2 digitos escrita em assembly
+# Simple Assembly Calculator
+This is a very simple calculator (that is not even working properly) made to train assembly coding
